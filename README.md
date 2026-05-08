@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# Hi, I'm [Your Name]
+# Hi, I'm Jiaying Chen
 
 Computer Programming student at Algonquin College interested in backend development, databases, and software engineering.
 
@@ -34,7 +34,6 @@ Computer Programming student at Algonquin College interested in backend developm
 
 * Full-stack web development
 * Database design
-* REST APIs
 * Software testing
 
 ## Projects
@@ -43,4 +42,4 @@ Computer Programming student at Algonquin College interested in backend developm
 * Netflix-Style Database System
 * Driver’s License Management System
 
-Currently seeking Winter 2026 co-op opportunities.
+Currently seeking Fall 2026 co-op opportunities.
