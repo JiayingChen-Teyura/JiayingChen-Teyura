@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# Hi, I'm [Your Name]
+
+Computer Programming student at Algonquin College interested in backend development, databases, and software engineering.
+
+## Technologies
+
+* Java
+* SQL
+* Node.js
+* MongoDB
+* PostgreSQL
+* JavaScript
+
+## Current Focus
+
+* Full-stack web development
+* Database design
+* REST APIs
+* Software testing
+
+## Projects
+
+* Quiz Web Application
+* Netflix-Style Database System
+* Driver’s License Management System
+
+Currently seeking Winter 2026 co-op opportunities.
